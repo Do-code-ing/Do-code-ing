@@ -7,6 +7,9 @@ I’m interested in
 >**JS**
 
 and also interested in
+>**data structure**,
+>**algorithm**,
+>**coding test**,
 >**front-end**,
 >**back-end**,
 >**web-app-developement**
